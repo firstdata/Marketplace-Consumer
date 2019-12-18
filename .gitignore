@@ -1,0 +1,4 @@
+/.idea/
+*.iml
+/consumer-java/.idea/
+consumer-python/.idea/
