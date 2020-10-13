@@ -1,0 +1,306 @@
+{
+  "message": "Successfully found current lead status for 49 referral(s)",
+  "error": [
+    {
+      "errorType": "REFERRALS_OUTSIDE_THRESHOLD_LIMIT",
+      "errorMessage": "Input referrals count is more than threshold limit of 50. Lead status is not fetched for referrals: [5DJpQ, Vn8zr]"
+    },
+    {
+      "errorType": "LEAD_STATUS_NOT_FOUND",
+      "errorMessage": "Lead Status not found for referrals: [ABCDE]"
+    }
+  ],
+  "leads": [
+    {
+      "referralId": "52WjV",
+      "leadId": "00Q5C000002jq4HUAQ",
+      "dealId": "2018790385",
+      "currentStatus": "Created"
+    },
+    {
+      "referralId": "r8BxV",
+      "leadId": "00Q5C000002jq4RUAQ",
+      "dealId": "2018790387",
+      "currentStatus": "Created"
+    },
+    {
+      "referralId": "VAWOr",
+      "leadId": "00Q5C000002jq4WUAQ",
+      "dealId": "2018790388",
+      "currentStatus": "Created"
+    },
+    {
+      "referralId": "QydyV",
+      "leadId": "00Q5C000002jq4bUAA",
+      "dealId": "2018790389",
+      "currentStatus": "Created"
+    },
+    {
+      "referralId": "V7WxV",
+      "leadId": "00Q5C000002jq4gUAA",
+      "dealId": "2018790390",
+      "currentStatus": "Created"
+    },
+    {
+      "referralId": "V6W2Q",
+      "leadId": "00Q5C000002jq4lUAA",
+      "dealId": "2018790391",
+      "currentStatus": "Created"
+    },
+    {
+      "referralId": "QZXB5",
+      "leadId": "00Q5C000002jq4qUAA",
+      "dealId": "2018790392",
+      "currentStatus": "Created"
+    },
+    {
+      "referralId": "Qabzr",
+      "leadId": "00Q5C000002jq4vUAA",
+      "dealId": "2018790393",
+      "currentStatus": "Created"
+    },
+    {
+      "referralId": "VwgpV",
+      "leadId": "00Q5C000002jq50UAA",
+      "dealId": "2018790394",
+      "currentStatus": "Created"
+    },
+    {
+      "referralId": "QKD1r",
+      "leadId": "00Q5C000002jq5KUAQ",
+      "dealId": "2018790398",
+      "currentStatus": "Created"
+    },
+    {
+      "referralId": "rgeJV",
+      "leadId": "00Q5C000002jq5ZUAQ",
+      "dealId": "2018790401",
+      "currentStatus": "Created"
+    },
+    {
+      "referralId": "rN8KV",
+      "leadId": "00Q5C000002jq5jUAA",
+      "dealId": "2018790403",
+      "currentStatus": "Created"
+    },
+    {
+      "referralId": "QdJm5",
+      "leadId": "00Q5C000002jq5oUAA",
+      "dealId": "2018790404",
+      "currentStatus": "Created"
+    },
+    {
+      "referralId": "rXNOV",
+      "leadId": "00Q5C000002jqOGUAY",
+      "dealId": "2018790414",
+      "currentStatus": "Created"
+    },
+    {
+      "referralId": "5LPo5",
+      "leadId": "00Q5C000002jqOLUAY",
+      "dealId": "2018790415",
+      "currentStatus": "Created"
+    },
+    {
+      "referralId": "QEmqQ",
+      "leadId": "00Q5C000002jqOVUAY",
+      "dealId": "2018790417",
+      "currentStatus": "Created"
+    },
+    {
+      "referralId": "QxNo5",
+      "leadId": "00Q5C000002jqOzUAI",
+      "dealId": "2018790423",
+      "currentStatus": "Created"
+    },
+    {
+      "referralId": "QkDZr",
+      "leadId": "00Q5C000002jqPEUAY",
+      "dealId": "2018790424",
+      "currentStatus": "Created"
+    },
+    {
+      "referralId": "QzXe5",
+      "leadId": "00Q5C000002jqPYUAY",
+      "dealId": "2018790426",
+      "currentStatus": "Created"
+    },
+    {
+      "referralId": "VlP9V",
+      "leadId": "00Q5C000002jqPdUAI",
+      "dealId": "2018790427",
+      "currentStatus": "Created"
+    },
+    {
+      "referralId": "5b0jQ",
+      "leadId": "00Q5C000002jqPiUAI",
+      "dealId": "2018790428",
+      "currentStatus": "Created"
+    },
+    {
+      "referralId": "5M2RV",
+      "leadId": "00Q5C000002jqPnUAI",
+      "dealId": "2018790429",
+      "currentStatus": "Created"
+    },
+    {
+      "referralId": "r3W1r",
+      "leadId": "00Q5C000002jqPsUAI",
+      "dealId": "2018790430",
+      "currentStatus": "Created"
+    },
+    {
+      "referralId": "Q9Wl5",
+      "leadId": "00Q5C000002jqPxUAI",
+      "dealId": "2018790431",
+      "currentStatus": "Created"
+    },
+    {
+      "referralId": "VoA2r",
+      "leadId": "00Q5C000002jqQ2UAI",
+      "dealId": "2018790432",
+      "currentStatus": "Created"
+    },
+    {
+      "referralId": "VR6MV",
+      "leadId": "00Q5C000002jqQ7UAI",
+      "dealId": "2018790433",
+      "currentStatus": "Created"
+    },
+    {
+      "referralId": "rWgqr",
+      "leadId": "00Q5C000002jqQlUAI",
+      "dealId": "2018790440",
+      "currentStatus": "Created"
+    },
+    {
+      "referralId": "VpyZQ",
+      "leadId": "00Q5C000002jqR5UAI",
+      "dealId": "2018790444",
+      "currentStatus": "Created"
+    },
+    {
+      "referralId": "VGeXr",
+      "leadId": "00Q5C000002jqRAUAY",
+      "dealId": "2018790445",
+      "currentStatus": "Created"
+    },
+    {
+      "referralId": "VjnnV",
+      "leadId": "00Q5C000002jqRFUAY",
+      "dealId": "2018790446",
+      "currentStatus": "Created"
+    },
+    {
+      "referralId": "VYdE5",
+      "leadId": "00Q5C000002jqRKUAY",
+      "dealId": "2018790447",
+      "currentStatus": "Created"
+    },
+    {
+      "referralId": "rB0zV",
+      "leadId": "00Q5C000002jqRUUAY",
+      "dealId": "2018790449",
+      "currentStatus": "Created"
+    },
+    {
+      "referralId": "rq7gV",
+      "leadId": "00Q5C000002jqRZUAY",
+      "dealId": "2018790450",
+      "currentStatus": "Created"
+    },
+    {
+      "referralId": "r0WvQ",
+      "leadId": "00Q5C000002jqTQUAY",
+      "dealId": "2018790465",
+      "currentStatus": "Created"
+    },
+    {
+      "referralId": "V1W7r",
+      "leadId": "00Q5C000002jqZrUAI",
+      "dealId": "2018790474",
+      "currentStatus": "Created"
+    },
+    {
+      "referralId": "rJnzr",
+      "leadId": "00Q5C000002jqakUAA",
+      "dealId": "2018790479",
+      "currentStatus": "Created"
+    },
+    {
+      "referralId": "rm2p5",
+      "leadId": "00Q5C000002jqhqUAA",
+      "dealId": "2018790592",
+      "currentStatus": "Created"
+    },
+    {
+      "referralId": "VvKlQ",
+      "leadId": "00Q5C000002jqhvUAA",
+      "dealId": "2018790593",
+      "currentStatus": "Created"
+    },
+    {
+      "referralId": "VemXV",
+      "leadId": "00Q5C000002jqiyUAA",
+      "dealId": "2018790604",
+      "currentStatus": "Created"
+    },
+    {
+      "referralId": "5OAaQ",
+      "leadId": "00Q5C000002jqjSUAQ",
+      "dealId": "2018790607",
+      "currentStatus": "Created"
+    },
+    {
+      "referralId": "Q4WaV",
+      "leadId": "00Q5C000002jqjXUAQ",
+      "dealId": "2018790608",
+      "currentStatus": "Created"
+    },
+    {
+      "referralId": "Vnyz5",
+      "currentStatus": "Created"
+    },
+    {
+      "referralId": "5DepV",
+      "currentStatus": "Created"
+    },
+    {
+      "referralId": "VPZRr",
+      "leadId": "00Q5C000002jrB3UAI",
+      "dealId": "2018790668",
+      "currentStatus": "Created"
+    },
+    {
+      "referralId": "52KjV",
+      "leadId": "00Q5C000002jrB8UAI",
+      "dealId": "2018790669",
+      "currentStatus": "Created"
+    },
+    {
+      "referralId": "r8qx5",
+      "leadId": "00Q5C000002jrBDUAY",
+      "dealId": "2018790670",
+      "currentStatus": "Created"
+    },
+    {
+      "referralId": "VAJOQ",
+      "leadId": "00Q5C000002jrBSUAY",
+      "dealId": "2018790672",
+      "currentStatus": "Created"
+    },
+    {
+      "referralId": "QyLyV",
+      "leadId": "00Q5C000002jrC1UAI",
+      "dealId": "2018790678",
+      "currentStatus": "Created"
+    },
+    {
+      "referralId": "V7LxQ",
+      "leadId": "00Q5C000002jrCGUAY",
+      "dealId": "2018790681",
+      "opportunityId": "0065C000004bG5AQAU",
+      "currentStatus": "Created"
+    }
+  ]
+}

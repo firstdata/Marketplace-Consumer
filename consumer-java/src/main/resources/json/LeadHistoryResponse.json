@@ -1,16 +1,30 @@
 {
-  "leadStatus": [
+  "leadId": "00Q0g00001Mjyeg",
+  "dealId": "2017568756",
+  "applicationHistory": [
     {
-      "referralId": "QxgPV",
-      "leadId": "00Q0g00001Mjyeg",
-      "dealId": "2017568756",
-      "status": "Opportunity Created"
+      "status": "Opportunity Created",
+      "createdBy": "AXPHATAK",
+      "date": "December 31, 2018 7:00:00 PM EST",
+      "comment": "0060g00000wc4Mc"
     },
     {
-      "referralId": "QE1XQ",
-      "leadId": "00Q2f00000209tcEAA",
-      "dealId": "2020077415",
-      "status": "Opportunity Created"
+      "status": "Lead Created",
+      "createdBy": "AXPHATAK",
+      "date": "December 31, 2018 7:00:00 PM EST",
+      "comment": "00Q0g00001Mjyeg"
+    },
+    {
+      "status": "Lead Created",
+      "createdBy": "AXPHATAK",
+      "date": "December 31, 2018 7:00:00 PM EST",
+      "comment": "00Q0g00001Mjyeg"
+    },
+    {
+      "status": "Opportunity Created",
+      "createdBy": "AXPHATAK",
+      "date": "December 31, 2018 7:00:00 PM EST",
+      "comment": "0060g00000wc4Mc"
     }
   ]
 }
